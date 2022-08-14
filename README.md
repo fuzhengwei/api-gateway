@@ -1,5 +1,10 @@
 # 《API网关：中间件设计和实践》—— 微服务设计，源码级体验！
 
+<div align="center">
+    <img src="https://bugstack.cn/images/article/assembly/api-gateway/api-gateway-logo.png?raw=true">
+    <div style="font-size: 12px;"><a href="https://t.zsxq.com/Ja27ujq">星球介绍：码农会锁 - 实战项目、专属小册、问题解答、简历指导、架构图稿、视频课程</a></div>
+</div>
+
 是滴，小傅哥又要准备搞事情了！这次准备下手**API网关**项目，因为这是所有互联网大厂都有的一个核心服务，承接着来自用户的滴滴打车、美团外卖、京东购物、微信支付，更是大促期间千万级访问量的核心系统。
 
 🤔 那么它是一个什么样的项目呢？为什么会有它的存在？它是怎么设计实现的呢？都用到了哪些技术栈呢？
